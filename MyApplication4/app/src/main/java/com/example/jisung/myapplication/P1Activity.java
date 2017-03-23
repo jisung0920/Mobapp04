@@ -88,6 +88,7 @@ public class P1Activity extends AppCompatActivity {
                         i2.setScaleX(1);
                         i2.setScaleY(1);
                     }
+                    item.setChecked(false);
                 }
                 else {
                     if (i1.getVisibility() == View.VISIBLE) {
